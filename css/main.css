@@ -1,0 +1,204 @@
+body {
+	font-family: 'Raleway', sans-serif; 
+	text-decoration-color: gray;
+}
+
+.right-navigation li a {
+	color:gray;
+	font-size: 15px;
+	margin-top: 30px;
+}
+
+footer {
+	text-align : center;
+	padding-top: 50px;
+	
+}
+
+
+
+.uielements {
+   display: inline-block;
+	padding-top: 100px;
+}
+
+.img-responsive {
+	max-width:100%;
+	height:auto;
+	display: block;
+	margin-left: 20px;
+	height: 80%;
+	width: 80%;
+	margin:0 auto;
+	}
+
+.uiframework-images img {
+  box-shadow: 5px 5px 10px rgba(0,0,0,.2);
+ -webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.2);
+ margin-bottom: 50px;
+}
+
+
+.ui-framework img {
+ margin-bottom: 50px;
+}
+
+.image-block-paycrave img {
+	 margin: 0 auto;
+	 width:40%;
+	margin-bottom: 40px;
+	 box-shadow: 5px 5px 10px rgba(0,0,0,.2);
+ -webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.2);
+	 
+}
+
+
+
+.image-block h3 {
+   display: block;
+   text-align: center;
+   font-weight: 100;
+	margin-bottom: 10px;
+  
+}
+
+.image-block h2 {
+	font-weight: 300;
+	text-align: center;
+	padding: 40px 20px 40px 20px;
+}
+
+.ui-framework img {
+    width: 20%;
+}
+
+
+.boxed-paycrave {
+	background-color:;
+	text-align: center;
+ 
+}
+
+
+.social {
+	background-color: rgba(255, 199, 187, .5);
+    padding: 20px;
+}
+
+.copyright {
+	background-color: #FFC7BB;
+    padding: 20px;
+}
+
+.header-profile light img{ 
+	max-width:100%;
+}
+
+.portfolio-item {
+	margin-bottom: 20px;
+}
+.portfolio-contents p {
+	text-align: center;
+	display: block;
+	color:gray;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+
+}
+
+
+.portfolio h2 {
+	text-align: center;
+	padding: 20px 20px 30px 20px;
+	margin: 20px;
+	color: gray;
+}
+
+
+
+.portfolio-contents img {
+	padding-right: 60px;
+	padding-left: 60px;
+	width: 100%;
+	border:0px;
+	display:block;
+	-webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.jumbotron {
+	background-color: white;
+	padding:0px;
+
+}
+
+
+.right-navigation img {
+	position:relative;
+	display: inline; 
+	height: 5%;
+	width:5%;
+	margin-top:20px;
+	margin-bottom: 8px;
+	opacity: 0.75;
+}
+
+#singlebutton {
+	color:grey;
+	background-color: #ABE9C2;
+	border:none;
+	word-spacing: -10px;
+	display: block;
+	margin-top: 30px;
+}
+
+.toolbox-title {
+	display: block;
+	margin: 0 auto;
+	color: gray;
+	width: 50%;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.skills-list {
+	display: block;
+	margin: 0 auto;
+	color: gray;
+	width: 50%;
+	text-align: center;
+
+}
+
+.row:before, .row:after {
+	content: " ";
+	display: table;
+
+}
+
+.list-item {
+	line-height: 200%;
+}
+
+.list-header {
+	font-size: 20px;
+    }
+
+li {
+	display: list-item;
+}
+
+
+
+
+
+
+
+
+
+

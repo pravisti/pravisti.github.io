@@ -1,0 +1,127 @@
+---
+layout: project
+image: dailyUI_cover.jpg
+background: blocbox_background1.jpg
+title: UI Elements | Illustrations 
+description: UI and non-UI things I make in my free time. 
+---
+
+
+<div class="container-fluid">
+  <div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis1.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Daily UI Project</h2></br>
+				<h3>Custom Chuck Taylor</h3>
+					<p>Part of the Daily UI project. #033 Customize Product Page.</p>
+    		</div>
+  		</div>
+	</div>
+	
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis2.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Monthly Wallpaper Project</h2></br>
+				<h3>Spacepod - April 2016</br>
+				</h3>
+				<p>Numbers and abstract geometrical shapes are combined to create this unique wallpaper design.</p>
+				
+    		</div>
+  		</div>
+	</div>
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis3.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Toast Icons</h2></br>
+			</br>
+	
+				<p>Inspired by toast icon design I saw during my morning feedly session.</p>
+		
+    		</div>
+  		</div>
+	</div>
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis4.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Paint Pens Collective Website Re-Design Project</h2></br>
+				<h3>Events Page</h3>
+				<p>Paint Pens Collective is an art collective that takes pride in it's events. Naturally I started the re-design process with a sketch mockup of their events page.</p>
+    		</div>
+  		</div>
+	</div>
+	
+
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis6.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Pastel Forest</h2></br>
+				<p>Inspired by a design I saw during my morning feedly session.</p>
+    		</div>
+  		</div>
+	</div>
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis7.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Designer's Lamp</h2></br>
+				<p>A good lamp is a designer's best friend. This is an illustrator version of a lamp a co-worker gave to me at my last workplace.</p>
+    		</div>
+  		</div>
+	</div>
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis8.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Vicks Inhaler</h2></br>
+				<p>The idea of making serious products look fun is intriguing. This is one of my many attempt at making memorable pop-art.</p>
+    		</div>
+  		</div>
+	</div>
+	
+	<div class="row">
+  	 <div class="uielements">
+    	<div class="col-sm-10">
+			<img src="/images/mis9.png" class="img-responsive">
+    	</div>
+		
+    		<div class="col-md-2">
+				<h2>Animal Icon Project</h2></br>
+				<h3>Cat</h3>
+				<p>UI icons are my favorite thing to make on illustraotr. This one was inspired by a design I saw during my morning feedly session.</p>
+    
+    		</div>
+  		</div>
+	</div>
+</div>
