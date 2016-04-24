@@ -94,11 +94,13 @@ body {
 .social {
 	background-color: rgba(255, 199, 187, .5);
     padding: 20px;
+    text-align: center;
 }
 
 .copyright {
 	background-color: #FFC7BB;
     padding: 20px;
+    text-align: center;
 }
 
 .header-profile light img{ 
@@ -151,8 +153,7 @@ body {
 .right-navigation img {
 	position:relative;
 	display: inline; 
-	height: 5%;
-	width:5%;
+	width:8%;
 	margin-top:20px;
 	margin-bottom: 8px;
 	opacity: 0.75;
@@ -165,7 +166,12 @@ body {
 	word-spacing: -10px;
 	display: block;
 	margin-top: 30px;
+	margin-bottom: 30px;
+	min-width: 48px;
+	min-height: 48px;
 }
+
+
 
 .toolbox-title {
 	display: block;

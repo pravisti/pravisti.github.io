@@ -73,7 +73,7 @@
 	</g>
 </g>
 <g id="Layer_2">
-	<g id="laptop_1_">
+	<g id="laptop_1_"> 
 		<path class="st9" d="M760,393.8H291.2c-3.7,0-6.8-3-6.8-6.8V125.2c0-3.7,3-6.8,6.8-6.8H760c3.7,0,6.8,3,6.8,6.8V387
 			C766.7,390.7,763.7,393.8,760,393.8z"/>
 		<g class="st10">
@@ -261,16 +261,16 @@
 			C777.9,115.9,775.8,118,773.2,118z"/>
 	</g>
 	
-		<text x="70" y="85"  style="font-family: Raleway, sans-serif;
+		<text x="70" y="88"  style="font-family: Raleway, sans-serif;
                  font-size  : 25;
-				 font-weight : 400;
+				 font-weight : 200;
 			
             
                  fill       : gray;
 
                 "
 		  >UI designer + front-end developer
-		<tspan class="strong em" x="70" y="58">Hi, I'm Pravi</tspan>
+		<tspan class="em" x="70" y="58">Hi, I'm Pravi</tspan>
       </text>
 	
 	
