@@ -3,6 +3,10 @@ body {
 	text-decoration-color: gray;
 }
 
+.nav {
+	padding-top: 10px;
+}
+
 .right-navigation li a {
 	color:gray;
 	font-size: 15px;
@@ -103,9 +107,7 @@ body {
     text-align: center;
 }
 
-.header-profile light img{ 
-	max-width:100%;
-}
+
 
 .portfolio-item {
 	margin-bottom: 20px;
@@ -146,8 +148,9 @@ body {
 .jumbotron {
 	background-color: white;
 	padding:0px;
-
 }
+
+
 
 
 .right-navigation img {
@@ -167,8 +170,6 @@ body {
 	display: block;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	min-width: 48px;
-	min-height: 48px;
 }
 
 
@@ -222,9 +223,6 @@ li {
     box-sizing: border-box;
 }
 
-div {
-    display: block;
-}
 
 
 
