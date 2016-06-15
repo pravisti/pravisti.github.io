@@ -1,38 +1,128 @@
 ---
 layout: project
-background: blocbox_background1.jpg
 image: karmafundr_logo.jpg
 title: KARMAFUNDR - WEB APP
 subtitle: Web Application UI
-description: A web application for people to crowdfund donations for charities and foundations, and allow people to donate to specific causes.
+description: KarmaFundr is a crowdfunding web application that lets you raise donation for a cause of your choice seamlessly. 
+
+
 ---
 
+<section class="hero" id="karmafundr-hero">
+      
+    </section>
+ 
 
-<div class="image-block">
-	<div class=".col-md-12">
-     	<div class="ui-framework">
-			<h2>UI FRAMEWORK</h2>
+<section class="content-area">
+<div class="body-intro container">
+<p>
+I was tasked with designing a web application for people to crowdfund donations, and allow people to donate to specific causes. While designing this fundraising platform I prioritized ease of use and user's attention. 
+</p>
+</section>
 
-            	<h3>Colors</h3>
-
-				<img src="/images/karmafundr1.png" class="img-responsive">
-            	<h3>Font</h3>
-            		<img src="/images/karmafundr2.png" class="img-responsive">
-            	<h3>Icons</h3>
-					<img src="/images/karmafundr3.png" class="img-responsive">
-				<h3>Buttons</h3>
-					<img src="/images/karmafundr4.png" class="img-responsive" >
-				<h2>DESKTOP</h2>
-						</div>
-		<div class="uiframework-images">
-					<img src="/images/karmafundr5.png" class="img-responsive">
-					<img src="/images/karmafundr6.jpg" class="img-responsive" >
-					<img src="/images/karmafundr7.jpg" class="img-responsive">
-					<img src="/images/karmafundr8.jpg" class="img-responsive" >
-
-		</div>
-				<img src="/images/karmafundr9.png" class="img-responsive">
+<div class="body-copy">
+	<div class="the-problem">
+		<div class="container">
+		<h2>The Problem</h2>
+<p>
+Navigating through a crowdfunding application doesn’t have to be a daunting experience, each page crammed with various causes and information. In this day and age where a user’s time is very valuable, it is important to get them to pay attention immediately, with grace and ease.
+</p>
 	</div>
+	</div>
+	
+	
+	<section class="the-solution">
+	<div class="container">
+	<h2>The Solution</h2>
+	<p>
+<span class="lead-text"> User attention and trust</span> can be gained by making the user feel comfortable while navigating the web application. With the proper design scheme keeping in consideration the UX design fundamentals I created a nifty application that focuses on ease of use. 
+</p>
+</div>
+</section>
+
+<section class="my-role">
+	<div class="container"></div>
+	<h2>My Role</h2>
+
+<p>I performed user research, branding and design for this project. You can take it for a test drive here. - insert link to page-
+</p>
+</div>
+</section>
+
+<section class="the-process">
+<div class="container">
+<h2>The Process</h2>
+
+<p>Time is very important to a designer. If I can reduce an iteration by doing some research, then I will have more time to build other projects. With this project I went straight into Competitive Analysis, because Karma Fundr's business model isn't unique, services like KickStarter has already paved the way and are great examples to follow. My goal with KarmaFundr was to make the user experience as simple as possible. 
+
+The common goal of crowdfunding services is to make fundraising easier, which is why design plays such a pivotal role in the success of these platforms. Crowdfunding services like Kickstarter and Generosity may be a bit different but their design model seems to be heading in the same direction, simplicity while acknowledging that design doesn’t end at the landing page.
+
+I made notes of Kickstarter and IndieGogo’s design, to understand how they arrived at the current design of their web application. What can be improved? or done differently, keeping in mind that change doesn't need to be drastic in design. </p>
+</div>
+</section>
+
+<figure>
+<img src="/images/competitors.png">
+</figure>
+
+<h3>User stories and flow </h3>
+
+<p>Keeping two factors in mind, ease of navigation and effective use of time I created user stories.The goal was to minimize friction for new and existing users. It would require use of design to save time and minimize clicking, so the fundraiser and donation maker can get any task done with minimum time and effort. 
+
+The emphasis was on saving the user’s time while keeping the integrity of the experience intact. Two main users, a fundraiser and a donator, need to accomplish several different tasks efficiently . In order to achieve this, I created a <a href= "#">prioritized</a> list of user stories of the two users to help me in the development of the platform.</p> 
+
+<figure>
+<img src="/images/karmafundruserstories.png">
+</figure>
+
+<h3>Brand identity and Logo</h3> 
+
+<p>I started thinking about the concept of giving, where it all started and what the act of giving really means to people. That led me to the word “karma”,  a hindu word which means “deed” or “act” and more broadly names the universal principle of cause and effect, action and reaction, which Hindus believe governs all consciousness. The word is familiar to most people and people associate it with a feeling of positivity. Naming the platform just Karma wasn’t enough, I needed something that created a balance, something concrete to match the fluidity of the word karma. I played with various words until I decided on “Funder”, to make it catchy I changed it to “Fundr”.  Combining the two words I came up with KarmaFundr.</p>
+
+<div class="container">
+<img src="/images/karmafundr_logo_sketch_01.png">
+<img src="/images/karmafundr_logo_sketch_02.png">
+<img src="/images/karmafundr_logo_sketch_03.png">
+</div>
+
+<p>To communicate trust, reliability and ease I leaned into colors and a set of fonts that achieved that effectively. I chose colors based on their emotional implications and also somewhat complimented each other.
+
+I chose Lato for this project. To keep things simple, clean and readable I stayed in the Lato typeface for all aspects of the project and used them consistently throughout the application pages, only changing their size. </p>
+
+<div class="container">
+<img src="/images/karmafundr_brandguide.png">
+</div>
+
+</div>
+
+<h2>Bringing it together</h2>
+
+<h3>Low-fi Wireframes</h3> 
+
+<p>Based on the user flow, brand identity, I created low-fidelity prototypes. I started thinking about distribution of content across all pages of the application, hierarchy of content and prioritizing information. The hardest part was to decide what content was more important so it could be highlighted in a certain way. </p>
+<div class="container">
+<img src="/images/karmafundr_lowfi.jpg">
+</div>
+
+
+<h3>Hi-fi Wireframes</h3> 
+
+<p>Taking the low-fi prototype, I created sketch wireframes. The wireframes I created in Sketch also underwent a few revisions, such is the process of design. I had a solid set of wireframes in the end which I took into development. </p>
+
+<section class="code-life">
+	<div class="container">
+<h2>Coding the design to life</h2> 
+
+<p>Now that I had the design ready, I wanted bring it to development. 
+
+With basic Front end web development skills that I acquired at Bloc along with supplement coding courses from FreeCodeCamp, Code Academy and Udemy I was ready to start. Coming from an artistic and creative background, coding was not intuitive to me as design. I couldn’t get creative with coding, not at the beginning. It took me longer to figure things out, which was a great learning experience for me. It made me appreciate the skill even more. 
+
+I started with HTML and CSS, used minimal JavaScript for this project. Since I had taken a course on Bootstrap and responsive design, I chose to use Bootstrap for this project. Using Bootstrap saved me a lot of time since it’s designed for responsiveness, and it gave me more time to focus on actual user experience. </p>
+
+</div>
+</section>
+
+</div>
 </div>
 
 
