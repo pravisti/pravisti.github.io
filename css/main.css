@@ -1,19 +1,31 @@
 body {
-	font-family: 'Raleway', sans-serif; 
+	font-family: 'Raleway', sans-serif;
 	text-decoration-color: gray;
 	vertical-align: baseline;
-	
+	width:100%;
+
 }
 
+.messagearea {
+	text-align: center;
+	padding-top: 51px;
+	padding-bottom: 51px;
+}
 
-.nav {
-	padding-top: 10px;
+.left-navigation li a {
+color: gray;
+	font-size: 15px;
+	font-size: 20px;
+    padding-left: -20px;
+}
+
+li {
+	font-size: 18px;
 }
 
 .right-navigation li a {
 	color:gray;
 	font-size: 15px;
-	margin-top: 30px;
 }
 
 p {
@@ -30,10 +42,10 @@ p {
 	position:absolute;
 	width:100%;
 	height:60px;
-	
+
 }
 
-.about-image { 
+.about-image {
 	margin: 0 auto;
 	width:70%;
 	margin-bottom: 40px;
@@ -51,12 +63,14 @@ p {
 .img-responsive {
 	max-width:100%;
 	height:auto;
-	display: block;
-	margin-left: 20px;
-	height: 80%;
-	width: 80%;
-	margin:0 auto;
+	display:block;
+	margin: 0 auto;
+	height: 85%;
+	width: 85%;
+	padding: 15px 0px 15px 0px;
+
 	}
+
 
 .uiframework-images img {
   box-shadow: 5px 5px 10px rgba(0,0,0,.2);
@@ -75,7 +89,7 @@ p {
 	margin-bottom: 40px;
 	 box-shadow: 5px 5px 10px rgba(0,0,0,.2);
  -webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.2);
-	 
+
 }
 
 
@@ -85,7 +99,7 @@ p {
    text-align: center;
    font-weight: 100;
 	margin-bottom: 10px;
-  
+
 }
 
 .image-block h2 {
@@ -104,7 +118,7 @@ p {
 .boxed-paycrave {
 	background-color:;
 	text-align: center;
- 
+
 }
 
 
@@ -114,17 +128,19 @@ p {
     text-align: center;
 }
 
-.copyright {
+.copyright p {
 	background-color: #FFC7BB;
-    padding: 20px;
-    text-align: center;
+  text-align: center;
+	font-size: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
 }
-
-
 
 .portfolio-item {
 	margin-bottom: 20px;
 }
+
+
 .portfolio-contents p {
 	display: block;
 	text-align: center;
@@ -152,10 +168,13 @@ p {
 
 .portfolio-background h3 {
 	text-align: left;
-	color:#4A4A4A;
+	color: ;
 	font-size: 20px;
 }
 
+.portfolio-contents h1 {
+	text-align: center;
+}
 
 
 .portfolio h2 {
@@ -165,11 +184,24 @@ p {
 	color: gray;
 }
 
+.pdf {
+	width:100%;
+	height:inherit;
+}
+
 .hero#karmafundr-hero {
     background-image: url("/images/karmafundr_homepage.png");
     background-size: cover;
     background-position: top left;
     background-repeat: no-repeat;
+}
+
+.hero#blocbox-hero {
+	background-image: url("/images/dashboard_home_bloc.png");
+	background-size: cover;
+	background-position: top left;
+	background-repeat: no-repeat;
+
 }
 
 .hero {
@@ -201,7 +233,7 @@ p {
 
 .right-navigation img {
 	position:relative;
-	display: inline; 
+	display: inline;
 	width:8%;
 	margin-top:20px;
 	margin-bottom: 8px;
@@ -216,7 +248,10 @@ p {
 	display: block;
 	margin-top: 30px;
 	margin-bottom: 30px;
+  padding:20px 50px 20px 50px;
+	font-size: 20px;
 }
+
 
 
 
@@ -282,9 +317,10 @@ li {
     background: #2c3e50;
     color: white;
 	 padding-top: 0em;
-    padding-right: 0px;
+  padding-right: 0px;
     padding-bottom: 3.5em;
     padding-left: 0px;
+		display: inline-block;
 }
 
 .the-problem {
@@ -293,6 +329,17 @@ li {
     padding-right: 0px;
     padding-bottom: 3.5em;
     padding-left: 0px;
+		display: inline-block;
+}
+
+.conclusion-section {
+	background-color: #ecf0f1;
+	padding-top: 0em;
+	padding-right: 0px;
+	padding-bottom: 3.5em;
+	padding-left: 0px;
+	display: inline-block;
+
 }
 
 
@@ -301,8 +348,9 @@ li {
     padding-right: 0px;
     padding-bottom: 3.5em;
     padding-left: 0px;
-    background-color:
-		#ecf0f1;
+    background-color:#ecf0f1;
+		display: inline-block;
+
 }
 
 .content-area h2 {
@@ -313,18 +361,15 @@ li {
 	font-weight: bold;
 }
 
-.body-copy img {
-    margin: 10px 0;
+
+.body-copy h2{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	  border-bottom: 2px solid orange;
+
 }
 
 .content-area img {
     width: 100%;
 }
-
-
-
-
-
-
-
-
