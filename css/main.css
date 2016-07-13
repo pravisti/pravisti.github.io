@@ -30,7 +30,7 @@ li {
 
 p {
 	font-weight: 'Raleway' 200;
-	line-height: 2.3;
+	line-height: 2.5;
 	display: inline-block;
 	font-size: 20px;
 	width: 100%;
@@ -70,14 +70,6 @@ p {
 	padding: 15px 0px 15px 0px;
 	}
 
-
-.uiframework-images img {
-  box-shadow: 5px 5px 10px rgba(0,0,0,.2);
- -webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.2);
- margin-bottom: 50px;
-}
-
-
 .ui-framework img {
  margin-bottom: 50px;
 }
@@ -89,6 +81,30 @@ p {
 	 box-shadow: 5px 5px 10px rgba(0,0,0,.2);
  -webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.2);
 
+}
+
+.intrinsic-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+
+/* 16x9 Aspect Ratio */
+.intrinsic-container-16x9 {
+  padding-bottom: 56.25%;
+}
+
+/* 4x3 Aspect Ratio */
+.intrinsic-container-4x3 {
+  padding-bottom: 75%;
+}
+
+.intrinsic-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 
@@ -151,14 +167,18 @@ p {
 
 }
 
+.portfolio-background {
+	margin-top: 50px;
+}
+
 .portfolio-background p {
 	text-align: left;
 }
 
 .portfolio-background h2 {
 	text-align: left;
+	margin-bottom: 30px;
 }
-
 
 .portfolio-background h1 {
 	text-align: left;
@@ -181,11 +201,6 @@ p {
 	padding: 20px 20px 30px 20px;
 	margin: 20px;
 	color: gray;
-}
-
-.pdf {
-	width:100%;
-	height:inherit;
 }
 
 .hero#karmafundr-hero {

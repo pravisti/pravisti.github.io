@@ -7,10 +7,10 @@ permalink: /about/
 <div class="portfolio-background">
 	<div class="container">
     	<div class="row">
-      		<div class="col-lg-10 col-lg-offset-1 text-center">
+      		<div class="col-lg-9 col-lg-offset-1 text-center">
 
-		<h1>Road to UX</h1>
-					<p><b>I'm Pravi and this is the story of how I finally overcame my fears and chose the path of UX/UI design</b></p>
+		<h1>Road to Design</h1>
+					<h2>I'm Pravi and this is the story of how I finally overcame my fears and chose the path of UX/UI design</h2>
 
 				<p>There is only one thing that keeps someone from attempting to live the life they want to live, and that one thing is fear. Fear takes many forms, some learn to strike a deal with it, some completely ignore it and some give in to it.
 
@@ -21,7 +21,8 @@ permalink: /about/
 
 	<div class="about-image">
 		<img src="/images/stationary.png" class="img-responsive">
-		 	<p> “This is the real secret of life -- to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.” Alan Watts</p>
+		 	<p> “You do not play a sonata in order to reach the final chord, and if the meanings of things were simply in ends, composers would write nothing but finales.”
+― Alan W. Watts, Wisdom Of Insecurity: A Message for an Age of Anxiety </p>
 	</div>
 
 			<p>I decided to face my fears head on.The little artist/designer in me wanted to come out.It wasn't an "aha" moment, where I woke up one day and decided to change everything, it was an arduous process, but I truly believed in it this time. </p>
