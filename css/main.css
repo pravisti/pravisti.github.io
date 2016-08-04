@@ -3,7 +3,55 @@ body {
 	text-decoration-color: gray;
 	vertical-align: baseline;
 	width:100%;
+}
 
+
+.navbar, .navbar-inverse{
+	border-radius: 0;
+	border: none;
+	margin-bottom: 0;
+	min-height: 80px;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color:gray;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
+.nav li {
+	display: ;
+	color: red;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: gray;
+	font-family: Lato;
+	font-size: 1.7em;
+	font-weight: 300;
+	padding: 30px 25px 33px 25px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	background-color: lightgray;
+	transition: 0.7s all linear;
+	height: 100%;
+}
+
+
+.navbar-brand {
+    float: left;
+    font-size: 40px;
+    line-height: normal;
+    height: 60px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
 }
 
 .messagearea {
@@ -22,6 +70,7 @@ color: gray;
 li {
 	font-size: 18px;
 }
+
 
 .right-navigation li a {
 	color:gray;
@@ -258,7 +307,6 @@ p {
 	color:grey;
 	background-color: #ABE9C2;
 	border:none;
-	word-spacing: -10px;
 	display: block;
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -336,6 +384,12 @@ li {
     padding-left: 0px;
 		display: inline-block;
 }
+
+.body-intro h2 {
+	text-align: center;
+}
+
+
 
 .the-problem {
     background-color: #ecf0f1;

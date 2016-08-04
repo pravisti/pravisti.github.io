@@ -36,11 +36,14 @@ permalink: /about/
 
 
 
-			<form action="mailto:pravisti@gmail.com">
-   <button id="singlebutton" class="btn btn-primary center-block" action="mailto:pravisti@gmail.com"><span class="glyphicon glyphicon-envelope"> &nbsp; Message me </span>
 
-       </button>
+
+<form action="mailto:pravisti@gmail.com">
+	 <button id="singlebutton" class="btn btn-primary center-block" action="mailto:pravisti@gmail.com"> Drop Me a Line </span>
+
+			 </button>
 	</form>
+
 
 
 
