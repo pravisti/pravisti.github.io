@@ -1,8 +1,56 @@
 body {
 	font-family: 'Raleway', sans-serif;
 	text-decoration-color: gray;
+	font-weight: 200;
 	vertical-align: baseline;
 	width:100%;
+}
+
+body {
+    font-size: 100%; /* Base font-size of 16px */
+}
+h1 {
+  font-size: 3em; /* 48 / 16 */
+  line-height: 1em; /* 48 / 48 */
+  margin-bottom: .5em; /* 24 / 48 */
+}
+h2 {
+  font-size: 2.25em; /* 36 / 16 */
+  line-height: 1.333333333333333em; /* 48 / 36 */
+  margin-bottom: .6666666666666667em; /* 24 / 36 */
+}
+h3 {
+  font-size: 1.0em; /* 24 / 16 */
+  line-height: 1em; /* 24 / 24 */
+  margin-bottom: 1em; /* 24 / 24 */
+  text-transform: uppercase;
+}
+h4 {
+  font-size: 1.3125em; /* 21 / 16 */
+  line-height: 1.142857142857143em; /* 24 / 21 */
+  margin-bottom: 1.142857142857143em; /* 24 / 21 */
+}
+h5 {
+  font-size: 1.125em; /* 18 / 16 */
+  line-height: 1.333333333333333em; /* 24 / 18 */
+  margin-bottom: 1.333333333333333em; /* 24 / 18 */
+}
+h6 {
+  font-size: 1em; /* 16 / 16 */
+  line-height: 1.5em; /* 24 / 16 */
+  margin-bottom: 1.5em; /* 24 / 16 */
+}
+p {
+  font-size: 1em; /* 16 / 16 */
+  line-height: 1.5em; /* 24 / 16 */
+  margin-bottom: 1.5em; /* 24 / 16 */
+}
+
+
+@media screen and (min-width: 740px) {
+    body {
+        font-size: 200%; /* Base font-size of 32px */
+    }
 }
 
 
@@ -18,8 +66,8 @@ body {
 }
 
 .navbar-inverse {
-    background-color: white;
-    border-color: white;
+    background-color: transparent;
+    border-color: transparent;
 }
 
 .nav li {
@@ -76,7 +124,7 @@ li {
 	color:gray;
 	font-size: 15px;
 }
-
+/*
 p {
 	font-weight: 'Raleway' 200;
 	line-height: 2.5;
@@ -84,6 +132,31 @@ p {
 	font-size: 20px;
 	width: 100%;
 }
+*/
+
+h1 {
+	font-size: 1.25em;
+	font-weight: normal;
+	line-height: 1.2;
+	margin: 1em 0 0 0;
+}
+
+/*p {
+	font-size:2.2rem;
+	line-height: 1.2;
+	margin: 0 0 1em 0;
+	font-weight: 'Raleway' 200;
+	display: inline
+}
+
+@media only screen and (max-width: 320px) {
+
+ p { font-size: 1em; }
+
+}
+
+*/
+
 
 .footer {
 	text-align : center;
@@ -110,7 +183,7 @@ p {
 }
 
 .img-responsive {
-	max-width:100%;
+	max-width:77%;
 	height:auto;
 	display:block;
 	margin: 0 auto;
@@ -244,6 +317,19 @@ p {
 	text-align: center;
 }
 
+#project-details-box-1 {
+padding-top: 65px;
+padding-bottom: 65px;
+}
+
+.project-details {
+height:auto;
+width:100%;
+background-color: #607286;
+color:#fff;
+margin:0px;
+text-align: left;
+}
 
 .portfolio h2 {
 	text-align: center;
@@ -253,17 +339,16 @@ p {
 }
 
 .hero#karmafundr-hero {
-    background-image: url("/images/karmafundr_homepage.png");
-    background-size: cover;
-    background-position: top left;
-    background-repeat: no-repeat;
+    background-image: url("/images/karmafundr_main_img.png");
+  	background-size: 40% auto;
+    background-position: top;
+    background-repeat: repeat;
 }
 
 .hero#blocbox-hero {
 	background-image: url("/images/dashboard_home_bloc.png");
-	background-size: cover;
-	background-position: top left;
-	background-repeat: no-repeat;
+	background-size: 35% auto;
+    background-position: top;
 
 }
 
@@ -272,6 +357,15 @@ p {
     padding-bottom: 400px;
 	    display: block;
 }
+
+		@media (max-width: 978px) {
+    .hero#karmafundr-hero {
+      padding-bottom:150px;
+      margin:0;
+    }
+
+}
+
 
 
 .portfolio-contents img {
@@ -371,40 +465,48 @@ li {
 
 @media screen and (min-width: 769px)
 .container {
-    width: 65%;
+    width: 50%;
     margin: 0 auto;
 }
 
  .the-solution {
-    background: #2c3e50;
-    color: white;
+    background: white;
+    color: black;
+
 	 padding-top: 0em;
-  padding-right: 0px;
-    padding-bottom: 3.5em;
+     padding-right: 0px;
     padding-left: 0px;
 		display: inline-block;
 }
 
+.the-solution h2 {
+text-transform: uppercase;
+}
+
 .body-intro h2 {
-	text-align: center;
+	text-align: left;
 }
 
 
 
 .the-problem {
-    background-color: #ecf0f1;
+
     padding-top: 0em;
     padding-right: 0px;
-    padding-bottom: 3.5em;
     padding-left: 0px;
-		display: inline-block;
+	display: inline-block;
+
+}
+
+.the-problem h2 {
+text-transform: uppercase;
+	text-align: left;
 }
 
 .conclusion-section {
 	background-color: #ecf0f1;
 	padding-top: 0em;
 	padding-right: 0px;
-	padding-bottom: 3.5em;
 	padding-left: 0px;
 	display: inline-block;
 
@@ -414,10 +516,8 @@ li {
 .code-life {
     padding-top: 0em;
     padding-right: 0px;
-    padding-bottom: 3.5em;
     padding-left: 0px;
-    background-color:#ecf0f1;
-		display: inline-block;
+	display: inline-block;
 
 }
 
@@ -425,16 +525,15 @@ li {
     padding-bottom: 10px;
     margin-top: 2.5em;
     margin-bottom: 20px;
-    border-bottom: 2px solid orange;
-	font-weight: bold;
+
+	
 }
 
 
 .body-copy h2{
-	text-align: center;
-	font-size: 30px;
+	font-size:30px;
 	font-weight: bold;
-	  border-bottom: 2px solid orange;
+	text-transform: uppercase;
 
 }
 
