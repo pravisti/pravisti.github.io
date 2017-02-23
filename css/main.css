@@ -345,6 +345,13 @@ text-align: left;
     background-repeat: repeat;
 }
 
+.hero#narly-hero {
+    background-image: url("/images/narlymainimage.png");
+  	background-size: 40% auto;
+    background-position: top;
+    background-repeat: repeat;
+}
+
 .hero#blocbox-hero {
 	background-image: url("/images/dashboard_home_bloc.png");
 	background-size: 35% auto;

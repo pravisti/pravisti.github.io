@@ -9,8 +9,8 @@ permalink: /about/
     	<div class="row">
       		<div class="col-lg-9 col-lg-offset-1 text-center">
 
-		<h1>Road to Design</h1>
-					<h2>I'm Pravi and this is the story of how I finally overcame my fears and chose the path of UX/UI design</h2>
+	<h1>Road to Design</h1>
+				<h2>I'm Pravi and this is the story of how I finally overcame my fears and chose the path of UX/UI design</h2>
 
 				<p>There is only one thing that keeps someone from attempting to live the life they want to live, and that one thing is fear. Fear takes many forms, some learn to strike a deal with it, some completely ignore it and some give in to it.
 
