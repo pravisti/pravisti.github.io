@@ -352,6 +352,13 @@ text-align: left;
     background-repeat: repeat;
 }
 
+.hero#narly-UIKIT {
+background-image: url("/images/narly_UIKit.png");
+background-size: 30% auto;
+}
+
+
+
 .hero#blocbox-hero {
 	background-image: url("/images/dashboard_home_bloc.png");
 	background-size: 35% auto;
@@ -506,7 +513,7 @@ text-transform: uppercase;
 }
 
 .the-problem h2 {
-text-transform: uppercase;
+    text-transform: uppercase;
 	text-align: left;
 }
 
