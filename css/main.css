@@ -148,13 +148,9 @@ h1 {
 	font-weight: 'Raleway' 200;
 	display: inline
 }
-
 @media only screen and (max-width: 320px) {
-
  p { font-size: 1em; }
-
 }
-
 */
 
 
@@ -187,8 +183,8 @@ h1 {
 	height:auto;
 	display:block;
 	margin: 0 auto;
-	height: 85%;
-	width: 85%;
+	height: 100%;
+	width: 100%;
 	padding: 15px 0px 15px 0px;
 	}
 
