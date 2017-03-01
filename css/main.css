@@ -170,13 +170,20 @@ h1 {
 	margin-top: 50px;
 
 }
-
-
-
 .uielements {
    display: inline-block;
 	padding-top: 100px;
 }
+
+.thumbnail img {
+	height:auto;
+	display:block;
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	padding: 15px 0px 15px 0px;
+}
+
 
 .img-responsive {
 	max-width:77%;
@@ -187,6 +194,18 @@ h1 {
 	width: 100%;
 	padding: 15px 0px 15px 0px;
 	}
+
+.img-portfolio {
+	
+	height:auto;
+	display:block;
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	padding: 15px 0px 15px 0px;
+	}
+
+}
 
 .ui-framework img {
  margin-bottom: 50px;
@@ -269,10 +288,9 @@ h1 {
 	padding-top: 15px;
 }
 
-.portfolio-item {
-	margin-bottom: 20px;
-}
 
+.portfolio-item img {
+    }
 
 .portfolio-contents p {
 	display: block;
