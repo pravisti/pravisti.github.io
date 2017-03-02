@@ -20,70 +20,48 @@ h2 {
   margin-bottom: .6666666666666667em; /* 24 / 36 */
 }
 h3 {
-  font-size: 1.0em; /* 24 / 16 */
+  font-size: 1.5em; /* 24 / 16 */
   line-height: 1em; /* 24 / 24 */
   margin-bottom: 1em; /* 24 / 24 */
   text-transform: uppercase;
 }
 h4 {
-  font-size: 1.3125em; /* 21 / 16 */
+  font-size: 1.5em; /* 21 / 16 */
   line-height: 1.142857142857143em; /* 24 / 21 */
   margin-bottom: 1.142857142857143em; /* 24 / 21 */
 }
 h5 {
-  font-size: 1.125em; /* 18 / 16 */
+  font-size: 1.5em; /* 18 / 16 */
   line-height: 1.333333333333333em; /* 24 / 18 */
   margin-bottom: 1.333333333333333em; /* 24 / 18 */
 }
 h6 {
-  font-size: 1em; /* 16 / 16 */
+  font-size: 1.5em; /* 16 / 16 */
   line-height: 1.5em; /* 24 / 16 */
   margin-bottom: 1.5em; /* 24 / 16 */
 }
 p {
-  font-size: 1em; /* 16 / 16 */
-  line-height: 1.75em; /* 24 / 16 */
+  font-size: 1.5em; /* 16 / 16 */
+  line-height: 1.68em; /* 24 / 16 */
   margin-bottom: 1.5em; /* 24 / 16 */
 }
 
-
-@media screen and (min-width: 740px) {
-    body {
-        font-size: 200%; /* Base font-size of 32px */
-    }
+@media only screen and (max-width: 400px) {
+body { font-size:90%;}
 }
 
-/* responsive text queries */
-@media screen and (max-width: 992px) {
-  p,.btn,input,div,span,h4 {
-    font-size: 95%;
-  }
-  h1 {
-    font-size: 24px;  
-  }
-  h2 {
-    font-size: 22px;  
-  }
-  h3 {
-    font-size: 18px;  
-  }
+@media only screen and (max-width: 800px) {
+body { font-size:100%;}
+} 
+
+@media only screen and (max-width: 1100px) {
+body { font-size:120%;}
 }
 
-@media screen and (max-width: 768px) {
-  p,.btn,input,div,span,h4 {
-    font-size: 90%;
-  }
-  h1 {
-    font-size: 20px;  
-  }
-  h2 {
-    font-size: 18px;  
-  }
-  h3 {
-    font-size: 16px;  
-  }
+@media only screen and (min-width: 1100px) {
+body { font-size:120%;}
+.wrap {max-width:770px;}
 }
-
 
 .navbar, .navbar-inverse{
 	border-radius: 0;
