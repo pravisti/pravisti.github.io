@@ -53,6 +53,37 @@ p {
     }
 }
 
+/* responsive text queries */
+@media screen and (max-width: 992px) {
+  p,.btn,input,div,span,h4 {
+    font-size: 95%;
+  }
+  h1 {
+    font-size: 24px;  
+  }
+  h2 {
+    font-size: 22px;  
+  }
+  h3 {
+    font-size: 18px;  
+  }
+}
+
+@media screen and (max-width: 768px) {
+  p,.btn,input,div,span,h4 {
+    font-size: 90%;
+  }
+  h1 {
+    font-size: 20px;  
+  }
+  h2 {
+    font-size: 18px;  
+  }
+  h3 {
+    font-size: 16px;  
+  }
+}
+
 
 .navbar, .navbar-inverse{
 	border-radius: 0;
@@ -179,8 +210,8 @@ h1 {
 	height:auto;
 	display:block;
 	margin: 0 auto;
-	height: 100%;
-	width: 100%;
+	height: 77%;
+	width: 77%;
 	padding: 15px 0px 15px 0px;
 }
 
@@ -272,6 +303,15 @@ h1 {
 	text-align: center;
 
 }
+
+.col-sm-4 {
+    padding: 0;
+}
+
+.col-sm-4 a {
+    margin-bottom: 0;
+}
+
 
 
 .social {
