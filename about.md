@@ -9,8 +9,6 @@ permalink: /about/
     	<div class="row">
       		<div class="col-lg-9 col-lg-offset-1 text-center">
 
-	<div class="about-image">
-		<img src="/images/stationary.png" class="img-responsive">
 
 		 	
 		<h3> Hi, my name is Pravi. </h3>
