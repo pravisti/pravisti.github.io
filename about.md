@@ -11,6 +11,7 @@ permalink: /about/
 
 	<div class="about-image">
 		<img src="/images/stationary.png" class="img-responsive">
+
 		 	
 		<h3> Hi, my name is Pravi. </h3>
 
