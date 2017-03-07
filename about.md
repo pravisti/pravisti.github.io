@@ -18,7 +18,7 @@ permalink: /about/
 				</div>
 <p>
 
-	I completed an apprenticeship in UX/UI design at Bloc in 2016 and developed a passion for pastels and web development, in the same order. You can check out my projects from my time there <a href = "/portfolio/_posts/">here</a>.  
+	I completed an apprenticeship in UX/UI design at Bloc in 2016 and developed a passion for pastels and web development, in the same order. You can check out my projects from my time there <a href = "/portfolio/">here</a>.  
 </p>
 
 				<p>
