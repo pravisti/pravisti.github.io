@@ -189,7 +189,7 @@ p {
 
 
 .img-responsive {
-	max-width:77%;
+	max-width:75%;
 	height:auto;
 	display:block;
 	margin: 0 auto;
@@ -282,7 +282,10 @@ p {
     margin-bottom: 0;
 }
 
-
+.uikit img {
+height:50%;
+width:50%;
+}
 
 .social {
 	background-color: rgba(255, 199, 187, .5);
