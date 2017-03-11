@@ -198,6 +198,19 @@ p {
 	padding: 15px 0px 15px 0px;
 	}
 
+
+.image-block-paycrave img {
+	 margin: 0 auto;
+	 width:30%;
+	display: inherit;
+	padding-bottom: 15px;
+	 
+}
+
+.image-block-paycrave {
+display: block;
+}
+
 .img-portfolio {
 	
 	height:auto;
@@ -214,12 +227,7 @@ p {
  margin-bottom: 50px;
 }
 
-.image-block-paycrave img {
-	 margin: 0 auto;
-	 width:35%;
-	 
 
-}
 
 .intrinsic-container {
   position: relative;
