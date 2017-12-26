@@ -24,6 +24,7 @@
 	.st18{opacity:0.43;}
 	.st19{fill:#7F8C8D;}
 	.st20{font-size:36px;}
+	.st21{letter-spacing:-2;}
 </style>
 <g id="Layer_1_1_">
 	<rect x="488" y="248" class="st0" width="536" height="257.7"/>
@@ -321,6 +322,6 @@
 	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 552 419)" class="st11 st12 st20">VISUAL/UI DESIGNER </text>
+	<text transform="matrix(1 0 0 1 534.2323 419)"><tspan x="0" y="0" class="st11 st12 st20">VISUA</tspan><tspan x="104.1" y="0" class="st11 st12 st20 st21">L / U</tspan><tspan x="167.8" y="0" class="st11 st12 st20">I DESIGNER </tspan></text>
 </g>
 </svg>
